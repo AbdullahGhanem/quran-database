@@ -19,3 +19,9 @@ Quraan Database surahs, ayahs, editions, ayah_edition.
 laravel lumen
 https://github.com/AbdullahGhanem/quran-lumen-api
 
+
+#quran vue
+
+https://github.com/adibemohamed/quranaho
+
+
