@@ -25,3 +25,6 @@ https://github.com/AbdullahGhanem/quran-lumen-api
 https://github.com/adibemohamed/quranaho
 
 
+## Sponsor
+
+[💚️ Become a Sponsor](https://github.com/sponsors/AbdullahGhanem)
